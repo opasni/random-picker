@@ -1,0 +1,350 @@
+{
+  "Albania": {
+    "Day 1": {
+      "Activity": "Arrival in Tirana",
+      "Description": "Arrive in Tirana, check into your hotel, and explore Skanderbeg Square."
+    },
+    "Day 2": {
+      "Activity": "Explore Tirana",
+      "Description": "Visit the National History Museum, Et'hem Bey Mosque, and Bunk'Art."
+    },
+    "Day 3": {
+      "Activity": "Day Trip to Kruja",
+      "Description": "Explore the medieval town of Kruja, visit the castle and the Skanderbeg Museum."
+    },
+    "Day 4": {
+      "Activity": "Drive to Berat",
+      "Description": "Travel to Berat, the 'City of a Thousand Windows,' and visit Berat Castle."
+    },
+    "Day 5": {
+      "Activity": "Explore Berat",
+      "Description": "Visit the Onufri Museum and walk through the Mangalem and Gorica quarters."
+    },
+    "Day 6": {
+      "Activity": "Drive to Gjirokastër",
+      "Description": "Explore the UNESCO World Heritage site of Gjirokastër and visit its castle."
+    },
+    "Day 7": {
+      "Activity": "Visit Blue Eye",
+      "Description": "Take a trip to the Blue Eye, a stunning natural water spring."
+    },
+    "Day 8": {
+      "Activity": "Drive to Saranda",
+      "Description": "Travel to the coastal town of Saranda and relax on the beach."
+    },
+    "Day 9": {
+      "Activity": "Day Trip to Butrint",
+      "Description": "Explore the ancient ruins of Butrint, a UNESCO World Heritage site."
+    },
+    "Day 10": {
+      "Activity": "Relax in Ksamil",
+      "Description": "Spend the day relaxing in the beautiful beach town of Ksamil."
+    },
+    "Day 11": {
+      "Activity": "Drive to Himara",
+      "Description": "Travel to Himara, a scenic coastal town, and explore its beaches."
+    },
+    "Day 12": {
+      "Activity": "Drive to Vlore",
+      "Description": "Head to Vlore and visit the Independence Monument and Museum."
+    },
+    "Day 13": {
+      "Activity": "Return to Tirana",
+      "Description": "Drive back to Tirana, with stops in Apollonia and Ardenica."
+    },
+    "Day 14": {
+      "Activity": "Departure",
+      "Description": "Depart from Tirana and head back home."
+    }
+  },
+  "Slovenia": {
+    "Day 1": {
+      "Activity": "Arrival in Ljubljana",
+      "Description": "Arrive in Ljubljana, check into your hotel, and explore the old town."
+    },
+    "Day 2": {
+      "Activity": "Ljubljana City Tour",
+      "Description": "Visit Ljubljana Castle, Triple Bridge, and Tivoli Park."
+    },
+    "Day 3": {
+      "Activity": "Day Trip to Lake Bled",
+      "Description": "Explore Lake Bled, visit Bled Castle, and take a boat to Bled Island."
+    },
+    "Day 4": {
+      "Activity": "Visit Vintgar Gorge",
+      "Description": "Hike through the stunning Vintgar Gorge near Lake Bled."
+    },
+    "Day 5": {
+      "Activity": "Day Trip to Lake Bohinj",
+      "Description": "Explore Lake Bohinj and hike in Triglav National Park."
+    },
+    "Day 6": {
+      "Activity": "Visit Postojna Cave",
+      "Description": "Tour the famous Postojna Cave and Predjama Castle."
+    },
+    "Day 7": {
+      "Activity": "Day Trip to Piran",
+      "Description": "Visit the coastal town of Piran and enjoy its Mediterranean charm."
+    },
+    "Day 8": {
+      "Activity": "Drive to Maribor",
+      "Description": "Travel to Maribor and explore the city's wine culture and old town."
+    },
+    "Day 9": {
+      "Activity": "Visit Ptuj",
+      "Description": "Take a day trip to Ptuj, Slovenia's oldest town, and visit Ptuj Castle."
+    },
+    "Day 10": {
+      "Activity": "Explore Celje",
+      "Description": "Visit Celje and explore its castle and old town."
+    },
+    "Day 11": {
+      "Activity": "Drive to Kranjska Gora",
+      "Description": "Travel to Kranjska Gora, a charming alpine village."
+    },
+    "Day 12": {
+      "Activity": "Hike in Julian Alps",
+      "Description": "Spend the day hiking in the Julian Alps around Kranjska Gora."
+    },
+    "Day 13": {
+      "Activity": "Drive back to Ljubljana",
+      "Description": "Return to Ljubljana and enjoy a final evening in the city."
+    },
+    "Day 14": {
+      "Activity": "Departure",
+      "Description": "Depart from Ljubljana and head back home."
+    }
+  },
+  "Norway": {
+    "Day 1": {
+      "Activity": "Arrival in Oslo",
+      "Description": "Arrive in Oslo, check into your hotel, and explore Karl Johans gate."
+    },
+    "Day 2": {
+      "Activity": "Oslo City Tour",
+      "Description": "Visit the Royal Palace, Oslo Opera House, and Vigeland Sculpture Park."
+    },
+    "Day 3": {
+      "Activity": "Explore Museums",
+      "Description": "Visit the Viking Ship Museum, Fram Museum, and Kon-Tiki Museum."
+    },
+    "Day 4": {
+      "Activity": "Day Trip to Lillehammer",
+      "Description": "Explore Lillehammer, visit the Maihaugen Open-Air Museum and Olympic sites."
+    },
+    "Day 5": {
+      "Activity": "Travel to Bergen",
+      "Description": "Take the scenic train ride from Oslo to Bergen."
+    },
+    "Day 6": {
+      "Activity": "Bergen City Tour",
+      "Description": "Explore Bryggen, Fløibanen funicular, and the Fish Market."
+    },
+    "Day 7": {
+      "Activity": "Fjord Tour",
+      "Description": "Take a fjord cruise to explore the stunning Norwegian fjords."
+    },
+    "Day 8": {
+      "Activity": "Day Trip to Flåm",
+      "Description": "Travel to Flåm, ride the Flåm Railway, and explore the surrounding area."
+    },
+    "Day 9": {
+      "Activity": "Visit Hardangerfjord",
+      "Description": "Explore Hardangerfjord, visit waterfalls and fruit orchards."
+    },
+    "Day 10": {
+      "Activity": "Travel to Stavanger",
+      "Description": "Take a scenic drive or flight to Stavanger."
+    },
+    "Day 11": {
+      "Activity": "Pulpit Rock Hike",
+      "Description": "Hike to Pulpit Rock (Preikestolen) for breathtaking views."
+    },
+    "Day 12": {
+      "Activity": "Explore Stavanger",
+      "Description": "Visit the Norwegian Petroleum Museum and Gamle Stavanger."
+    },
+    "Day 13": {
+      "Activity": "Return to Oslo",
+      "Description": "Travel back to Oslo for a final evening in the city."
+    },
+    "Day 14": {
+      "Activity": "Departure",
+      "Description": "Depart from Oslo and head back home."
+    }
+  },
+  "Ireland": {
+    "Day 1": {
+      "Activity": "Arrival in Dublin",
+      "Description": "Arrive in Dublin, check into your hotel, and explore Temple Bar."
+    },
+    "Day 2": {
+      "Activity": "Dublin City Tour",
+      "Description": "Visit Trinity College, St. Patrick's Cathedral, and Dublin Castle."
+    },
+    "Day 3": {
+      "Activity": "Day Trip to Howth",
+      "Description": "Explore the coastal village of Howth and enjoy a seafood lunch."
+    },
+    "Day 4": {
+      "Activity": "Travel to Kilkenny",
+      "Description": "Visit Kilkenny Castle and explore the medieval streets."
+    },
+    "Day 5": {
+      "Activity": "Visit Rock of Cashel",
+      "Description": "Take a day trip to the historic Rock of Cashel."
+    },
+    "Day 6": {
+      "Activity": "Drive to Cork",
+      "Description": "Travel to Cork and visit the English Market and Blarney Castle."
+    },
+    "Day 7": {
+      "Activity": "Day Trip to Kinsale",
+      "Description": "Explore the picturesque town of Kinsale and visit Charles Fort."
+    },
+    "Day 8": {
+      "Activity": "Drive to Killarney",
+      "Description": "Travel to Killarney and explore Killarney National Park."
+    },
+    "Day 9": {
+      "Activity": "Ring of Kerry Tour",
+      "Description": "Take a scenic drive around the famous Ring of Kerry."
+    },
+    "Day 10": {
+      "Activity": "Visit Dingle Peninsula",
+      "Description": "Explore the Dingle Peninsula and visit the town of Dingle."
+    },
+    "Day 11": {
+      "Activity": "Drive to Galway",
+      "Description": "Travel to Galway and explore the lively city center."
+    },
+    "Day 12": {
+      "Activity": "Visit Cliffs of Moher",
+      "Description": "Take a day trip to the stunning Cliffs of Moher."
+    },
+    "Day 13": {
+      "Activity": "Explore Connemara",
+      "Description": "Discover the beautiful landscapes of Connemara National Park."
+    },
+    "Day 14": {
+      "Activity": "Return to Dublin",
+      "Description": "Head back to Dublin for your departure."
+    }
+  },
+  "Morocco": {
+    "Day 1": {
+      "Activity": "Arrival in Marrakech",
+      "Description": "Arrive in Marrakech, check into your hotel, and explore Jemaa el-Fnaa square."
+    },
+    "Day 2": {
+      "Activity": "Marrakech City Tour",
+      "Description": "Visit Bahia Palace, Koutoubia Mosque, and Saadian Tombs."
+    },
+    "Day 3": {
+      "Activity": "Day Trip to Essaouira",
+      "Description": "Explore the coastal city of Essaouira and its medina."
+    },
+    "Day 4": {
+      "Activity": "Travel to Ouarzazate",
+      "Description": "Drive through the Atlas Mountains and visit Ait Benhaddou."
+    },
+    "Day 5": {
+      "Activity": "Explore Ouarzazate",
+      "Description": "Visit the Taourirt Kasbah and Atlas Studios."
+    },
+    "Day 6": {
+      "Activity": "Drive to Merzouga",
+      "Description": "Travel to Merzouga and prepare for a desert adventure."
+    },
+    "Day 7": {
+      "Activity": "Sahara Desert Tour",
+      "Description": "Take a camel trek into the Sahara and stay overnight in a desert camp."
+    },
+    "Day 8": {
+      "Activity": "Travel to Fes",
+      "Description": "Drive to Fes, stopping at the Ziz Valley along the way."
+    },
+    "Day 9": {
+      "Activity": "Fes City Tour",
+      "Description": "Explore the medina, visit Al Quaraouiyine University, and see the tanneries."
+    },
+    "Day 10": {
+      "Activity": "Day Trip to Meknes and Volubilis",
+      "Description": "Visit the imperial city of Meknes and the Roman ruins of Volubilis."
+    },
+    "Day 11": {
+      "Activity": "Travel to Chefchaouen",
+      "Description": "Drive to the blue city of Chefchaouen and explore its picturesque streets."
+    },
+    "Day 12": {
+      "Activity": "Chefchaouen Exploration",
+      "Description": "Spend the day exploring the charming blue-painted town."
+    },
+    "Day 13": {
+      "Activity": "Travel to Casablanca",
+      "Description": "Drive to Casablanca and visit the Hassan II Mosque."
+    },
+    "Day 14": {
+      "Activity": "Departure from Casablanca",
+      "Description": "Prepare for departure from Casablanca."
+    }
+  },
+  "Kazakhstan": {
+    "Day 1": {
+      "Activity": "Arrival in Almaty",
+      "Description": "Arrive in Almaty, check into your hotel, and explore Panfilov Park."
+    },
+    "Day 2": {
+      "Activity": "Almaty City Tour",
+      "Description": "Visit Zenkov Cathedral, Green Bazaar, and Kok-Tobe Hill."
+    },
+    "Day 3": {
+      "Activity": "Day Trip to Charyn Canyon",
+      "Description": "Explore the stunning landscapes of Charyn Canyon."
+    },
+    "Day 4": {
+      "Activity": "Travel to Altyn-Emel National Park",
+      "Description": "Discover the singing dunes and Aktau mountains."
+    },
+    "Day 5": {
+      "Activity": "Explore Altyn-Emel National Park",
+      "Description": "Continue exploring the unique landscapes and wildlife."
+    },
+    "Day 6": {
+      "Activity": "Drive to Shymkent",
+      "Description": "Travel to Shymkent and explore the city."
+    },
+    "Day 7": {
+      "Activity": "Visit Turkestan",
+      "Description": "Take a day trip to the historic city of Turkestan and visit the Mausoleum of Khoja Ahmed Yasawi."
+    },
+    "Day 8": {
+      "Activity": "Travel to Astana",
+      "Description": "Fly to Astana and check into your hotel."
+    },
+    "Day 9": {
+      "Activity": "Astana City Tour",
+      "Description": "Visit Bayterek Tower, Khan Shatyr, and the Palace of Peace and Reconciliation."
+    },
+    "Day 10": {
+      "Activity": "Day Trip to Burabay National Park",
+      "Description": "Explore the beautiful Burabay National Park and its lakes."
+    },
+    "Day 11": {
+      "Activity": "Travel to Karaganda",
+      "Description": "Drive to Karaganda and visit the KarLag Museum."
+    },
+    "Day 12": {
+      "Activity": "Explore Karaganda",
+      "Description": "Continue exploring Karaganda and its Soviet history."
+    },
+    "Day 13": {
+      "Activity": "Return to Almaty",
+      "Description": "Fly back to Almaty for your last night in Kazakhstan."
+    },
+    "Day 14": {
+      "Activity": "Departure from Almaty",
+      "Description": "Prepare for departure from Almaty."
+    }
+  }
+}

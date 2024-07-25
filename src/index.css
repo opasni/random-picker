@@ -1,3 +1,17 @@
+/* Override Bootstrap variables for dark theme and primary color */
+:root {
+  --bs-body-bg: #343a40 !important;
+  --bs-body-color: #ffffff !important;
+  --bs-card-bg: #212529 !important;
+  --bs-card-border-color: #ffffff !important;
+  --bs-card-color: #ffffff !important;
+  --bs-form-control-bg: #212529 !important;
+  --bs-form-control-color: #ffffff !important;
+  --bs-primary: #ffe000 !important; /* Change this to your desired primary color */
+  --bs-btn-bg: #ffe000 !important; /* Change this to your desired primary color */
+}
+
+/* Apply dark background to the body */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +19,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.btn-primary {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+  color: var(--bs-body-bg);
+}
+
+.btn-primary:hover {
+  background-color: #ffe731;
+  border-color: var(--bs-primary);
+  color: var(--bs-body-bg);
 }
